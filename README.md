@@ -5,7 +5,7 @@
 - 📫 How to reach me 
   const myDetais = { email: 'mariusnwokolo24@gmail.com',
              Phone: 08103736627,
-             Social: @Goldmyngram }
+             Social: 'Goldmyngram' }
 
 <!---
 Goldmyn/GymCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
