@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript Backend Libraries.
 - 💞️ I’m looking to collaborate on revolutionary projects.
 - 📫 How to reach me 
-  const myDetais = { email: 'mariusnwokolo24@gmail.com',
+  const myDetails = { email: 'mariusnwokolo24@gmail.com',
              Phone: 08103736627,
              Social: 'Goldmyngram' }
 
