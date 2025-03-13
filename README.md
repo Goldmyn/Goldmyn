@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marius Nwokolo and I GymCode.
 - 👀 I’m interested in Fullstack Software Development.
-- 🌱 I’m currently learning JavaScript Backend Libraries.
 - 💞️ I’m looking to collaborate on revolutionary projects.
 - 📫 How to reach me 
   const myDetails = {
